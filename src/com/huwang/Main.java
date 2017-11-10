@@ -1,8 +1,4 @@
 package com.huwang;
-
-import java.util.Arrays;
-import java.util.Random;
-import java.util.Scanner;package com.huwang;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
@@ -135,3 +131,4 @@ class Poker {
             System.out.println();
         }
     }
+}
